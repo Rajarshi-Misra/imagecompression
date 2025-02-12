@@ -1,0 +1,18 @@
+Filename,Original Size (KB),Compressed Size (KB),Compression Ratio (%),Original Format,Dimensions,Quality Used,Processing Time (ms)
+cam_img1.jpg,383.32,239.49,62.5,jpeg,3072x4096,40,2068
+cam_img2.jpg,84.58,45.64,54.0,jpeg,1280x960,40,293
+cam_img3.jpg,1268.68,825.43,65.1,jpeg,4080x3072,40,3064
+cam_img4.jpg,1256.70,1002.68,79.8,jpeg,4080x3072,50,2832
+cam_img5.jpg,642.94,432.33,67.2,jpeg,4080x3072,40,2444
+freepik1.jpg,5537.22,3418.63,61.7,jpeg,5272x3948,80,1797
+freepik2.jpg,5206.85,3669.61,70.5,jpeg,3712x4640,80,1832
+freepik3.jpg,1618.57,1240.18,76.6,jpeg,3464x5543,80,1035
+freepik4.jpg,2840.61,1191.55,41.9,jpeg,4000x6000,80,1313
+freepik5.jpg,739.24,444.05,60.1,jpeg,2238x3357,80,386
+freepik6.jpg,4142.13,1886.74,45.5,jpeg,4000x6000,80,1426
+freepik7.jpg,1268.36,644.23,50.8,jpeg,3140x2093,80,454
+ss1.png,251.58,51.11,20.3,png,2514x808,80,137
+ss2.png,436.25,96.36,22.1,png,2120x1702,80,255
+ss3.png,396.12,79.39,20.0,png,2120x1556,80,214
+ss4.png,303.97,56.31,18.5,png,2748x1518,80,247
+ss5.png,1042.77,171.98,16.5,png,2934x1884,80,381

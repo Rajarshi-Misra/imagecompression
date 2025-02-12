@@ -1,0 +1,18 @@
+Filename,Original Size (KB),Compressed Size (KB),Compression Ratio (%),Original Format,Processing Time (ms)
+cam_img1.jpg,383.32,1048.65,273.6,jpeg,734
+cam_img2.jpg,84.58,212.47,251.2,jpeg,125
+cam_img3.jpg,1268.68,2641.13,208.2,jpeg,1317
+cam_img4.jpg,1256.70,3051.05,242.8,jpeg,1573
+cam_img5.jpg,642.94,1534.08,238.6,jpeg,895
+freepik1.jpg,5537.22,10593.54,191.3,jpeg,5059
+freepik2.jpg,5206.85,10153.42,195.0,jpeg,5476
+freepik3.jpg,1618.57,2899.95,179.2,jpeg,1693
+freepik4.jpg,2840.61,4531.07,159.5,jpeg,2776
+freepik5.jpg,739.24,1294.16,175.1,jpeg,698
+freepik6.jpg,4142.13,6923.38,167.1,jpeg,3783
+freepik7.jpg,1268.36,2103.15,165.8,jpeg,1146
+ss1.png,251.58,77.88,31.0,png,160
+ss2.png,436.25,123.34,28.3,png,248
+ss3.png,396.12,115.64,29.2,png,230
+ss4.png,303.97,76.58,25.2,png,255
+ss5.png,1042.77,336.84,32.3,png,566
